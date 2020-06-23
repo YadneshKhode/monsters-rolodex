@@ -1,0 +1,13 @@
+.search{
+    border: 0.3rem solid purple;
+    margin: 0 10% 4rem 10%;
+    padding: 1rem 2%;
+    outline: none;
+    border-radius: 2rem;
+    box-sizing: border-box;
+    width:18%
+}
+.search:focus{
+    border: 0.3rem solid purple;
+    
+}
