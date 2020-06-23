@@ -5,7 +5,6 @@
     outline: none;
     border-radius: 2rem;
     box-sizing: border-box;
-    width:18%
 }
 .search:focus{
     border: 0.3rem solid purple;
